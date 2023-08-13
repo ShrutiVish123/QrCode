@@ -1,0 +1,2 @@
+# QrCode
+Genrate qr code 
